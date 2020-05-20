@@ -22,5 +22,13 @@
   "country_code": "US", 
   "tld": "com", 
   "country_name": "United"
+ },
+ {
+  "sector": "Dating", 
+  "url": "*.match.com", 
+  "host": "www.match.com", 
+  "country_code": "US", 
+  "tld": "com", 
+  "country_name": "United States"
  }
  ]
