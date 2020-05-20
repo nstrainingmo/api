@@ -1,0 +1,26 @@
+[
+ {
+  "sector": "Gambling", 
+  "url": "*.williamhill.com", 
+  "host": "www.williamhill.com", 
+  "country_code": "US", 
+  "tld": "com", 
+  "country_name": "United States"
+ }, 
+ {
+  "sector": "Gambling", 
+  "url": "us-nj.staticcache.org", 
+  "host": "www.williamhill.com", 
+  "country_code": "US", 
+  "tld": "org", 
+  "country_name": "United States"
+ },
+ {
+  "sector": "Gambling", 
+  "url": "*.apitester.com", 
+  "host": "www.apitester.com", 
+  "country_code": "US", 
+  "tld": "com", 
+  "country_name": "United States"
+ }
+ ]
